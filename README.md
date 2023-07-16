@@ -2,7 +2,7 @@
 
 노마드 코더 보며 공부중...!
 
-```bash
+```zsh
 ├── 01_variables
 │   ├── constant.dart
 │   ├── dynamic_type.dart
